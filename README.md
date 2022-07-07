@@ -1,0 +1,3 @@
+- Hi, I’m Aarav
+- I’m interested in developing machine learning apps and improving my knowledge of computer science and maths
+- I’m currently learning function programming with Haskell
